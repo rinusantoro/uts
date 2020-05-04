@@ -1,0 +1,20 @@
+
+<p align=center>Data Pemantauan Covid19 Wilayah <font color =red>  DKI Jakarta  </font><br>
+Per <font color =red> 04 May 2020 | 15:56:26</font><br>
+<font color =red> Sonasa/02289 </font><br><br></p>
+    <table>
+    <tr>
+        <th>Positif</th>
+        <th>Dirawat</th>
+        <th>Sembuh</th>
+        <th>Meninggal</th>
+    </tr>
+    <tr>
+        <td>2902</td>
+        <td>1769</td>
+        <td>206</td>
+        <td>257</td>
+    </tr>
+    </table>
+    <br>
+
