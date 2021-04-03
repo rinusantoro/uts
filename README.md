@@ -21,12 +21,12 @@ Untuk (1) buatlah aplikasi php sederhana yang memasukkan data pasien virus covid
  • NIM Mahasiswa  
  b. Output :  
 Data Pemantaun Covid19 wilayah DKI Jakarta   
-Per 18 April 2020 21:38:16 (Waktu dan Jam Sekarang)  
+Per 22 Maret 2021 14:08:16 (Waktu dan Jam Sekarang)  
 Nama Operator/NIM  
 
-| Positif | Dirawat | Sembuh | Meninggal |
-|:-------:|:-------:|:------:|:---------:|
-| 2902    |  1769   | 206    |  257      |
+| Positif | Dirawat | Sembuh   | Meninggal |
+|:-------:|:-------:|:--------:|:---------:|
+| 370.582 |  3.463  | 357.100  |  6.160    |
 
 Untuk (2) buatlah aplikasi php sederhana yang memasukkan data pasien virus covid-19 berdasarkan data berikut ke dalam file db.html. Dikumpulkan dalam bentuk source code php dan html yang di push ke repositori github dengan nama repositori UTS dan file pdf yang berisi username github, keterangan dari aplikasi tersebut beserta gambar input dan outputnya.  Nama file pdf dengan format kelas_nim. Di upload ke situs e-learningab.unpam.ac.id topik UTS.  
 
@@ -41,12 +41,12 @@ Untuk (2) buatlah aplikasi php sederhana yang memasukkan data pasien virus covid
 	Output :  
 
 Data Pemantaun Covid19 wilayah Banten   
-Per 18 April 2020 21:38:16 (Waktu dan Jam Sekarang)  
+Per 22 Maret 2021 14:13:16 (Waktu dan Jam Sekarang)  
 Nama Operator/NIM  
 
 | Positif | Dirawat | Sembuh | Meninggal |
 |:-------:|:-------:|:------:|:---------:|
-| 222     |  159    | 27     |  36       |
+| 41.230  |  2.897  | 37.227 |  1.106    |
 
 Untuk (3) buatlah aplikasi php sederhana yang memasukkan data pasien virus covid-19 berdasarkan data berikut dan langsung ditampilkan di bawahnya. Dikumpulkan dalam bentuk source code php yang di push ke repositori github dengan nama repositori UTS dan file pdf yang berisi username github, keterangan dari aplikasi tersebut beserta gambar input dan outputnya. Nama file pdf dengan format kelas_nim. Di upload ke situs e-learningab.unpam.ac.id topik UTS.  
 
@@ -60,12 +60,12 @@ Untuk (3) buatlah aplikasi php sederhana yang memasukkan data pasien virus covid
 •	NIM Mahasiswa  
 	Output :  
 Data Pemantaun Covid19 wilayah Jawa Barat  
-Per 18 April 2020 21:38:16 (Waktu dan Jam Sekarang)  
+Per 22 Maret 2021 14:27:16 (Waktu dan Jam Sekarang)  
 Nama Operator/NIM  
 
-| Positif | Dirawat | Sembuh | Meninggal |
-|:-------:|:-------:|:------:|:---------:|
-| 641     |  229    | 41     |  56       |
+| Positif | Dirawat | Sembuh  | Meninggal |
+|:-------:|:-------:|:-------:|:---------:|
+| 239.951 |  27.674 | 209.360 |  2.917    |
 
 Untuk (4) Buatlah aplikasi php sederhana yang memasukkan data pasien virus covid-19 berdasarkan data berikut dan langsung ditampilkan di bawahnya. Dikumpulkan dalam bentuk source code php yang di push ke repositori github dengan nama repositori UTS dan file pdf yang berisi username github, keterangan dari aplikasi tersebut beserta gambar input dan outputnya. Nama file pdf dengan format kelas_nim. Di upload ke situs e-learningab.unpam.ac.id topik UTS.  
 
@@ -79,9 +79,9 @@ Untuk (4) Buatlah aplikasi php sederhana yang memasukkan data pasien virus covid
 •	NIM Mahasiswa  
 	Output :  
 Data Pemantaun Covid19 wilayah Jawa Tengah   
-Per 18 April 2020 21:38:16 (Waktu dan Jam Sekarang)  
+Per 22 Maret 2021 14:27:16 (Waktu dan Jam Sekarang)  
 Nama Operator/NIM/IP Address   
 
-| Positif | Dirawat | Sembuh | Meninggal |
-|:-------:|:-------:|:------:|:---------:|
-| 311     |  223    | 45     |  43       |
+| Positif | Dirawat | Sembuh  | Meninggal |
+|:-------:|:-------:|:-------:|:---------:|
+| 167.024 |  5.924  | 150.649 |  10.451   |
